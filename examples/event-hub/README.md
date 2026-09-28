@@ -1,0 +1,1 @@
+This example sends diagnostic logs to an event hub destination using a global event hub configuration.

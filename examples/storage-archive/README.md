@@ -1,0 +1,1 @@
+This example archives diagnostic logs to a storage account destination for compliance and long-term retention.
